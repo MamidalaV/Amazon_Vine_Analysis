@@ -45,7 +45,7 @@ Finally to analyze the reviews, the above subsets of the data are used to create
   - Total non-Vine reviews with 5 Stars = 14,511
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
   - Total reviews = 30,029
-  - Percentage of vine reviews = 0.013%
+  - Percentage of Vine reviews = 0.013%
   - Percentage of non-Vine reviews = 48.303%
 
 # SUMMARY:
