@@ -3,6 +3,11 @@
 # PURPOSE:
 ## The purpose of this analysis is to analyze Amazon reviews written by members of the paid Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review.
 
+## Applications used for this analysis:
+- PySpark for ETL
+- pgAdmin to store data
+- Amazon AWS to load data
+
 # RESULTS
 The following dataset is used for this analysis, which is csv file with reviews about Mobiles and Electronics.
 
