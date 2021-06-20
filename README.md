@@ -5,8 +5,8 @@
 
 ## Applications used for this analysis:
 - PySpark for ETL
-- pgAdmin to store data
-- Amazon AWS to load data
+- pgAdmin to access the data
+- Amazon AWS to store data
 
 # RESULTS
 The following dataset is used for this analysis, which is csv file with reviews about Mobiles and Electronics.
