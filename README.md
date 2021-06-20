@@ -30,8 +30,19 @@ Also the unpaid reviews (not in vine program) are filtered, using vine == 'N'
 
 Finally to analyze the reviews, the above subsets of the data are used to create a summary.
 
-![summary](https://user-images.githubusercontent.com/74985818/122659911-84c1a380-d14a-11eb-9d86-f8aea3c23ade.png)
+![summary](https://user-images.githubusercontent.com/74985818/122660163-1af6c900-d14d-11eb-84db-fa10d6d060ba.png)
 
-
+- How many Vine reviews and non-Vine reviews were there?
+  - Total Vine reviews = 12
+  - Total non-Vine reviews = 30,029
+- How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+  - Total Vine reviews with 5 Stars = 4
+  - Total non-Vine reviews with 5 Stars = 14,511
+- What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+  - Total reviews = 30,029
+  - Percentage of vine reviews = 0.013%
+  - Percentage of non-Vine reviews = 48.303%
 
 # SUMMARY:
+- From the above results we can see that of the total 5 star reviews, only 0.01% are from vine program and 48.30% reviews are not from Vine program. So there is no bias in the data.
+- One other way of analyzing this data is to consider all reviews and not filter the data with 5 star ratings, since all reviews are considered while making a purchase.
